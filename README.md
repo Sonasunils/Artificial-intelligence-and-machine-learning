@@ -124,6 +124,6 @@ AI and ML are not just technologies — they’re tools to solve problems, drive
 I’m always open to collaboration, discussion, and learning new ideas in AI/ML, data science, and automation.
 📧 Email: sonasunilsunitha@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/sona-s-s-b469a6190
+🔗 LinkedIn: 
 
 💻 GitHub: github.com/Sonasunils
