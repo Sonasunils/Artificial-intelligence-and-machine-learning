@@ -1,0 +1,6 @@
+1Now the file has more contents!
+2Now the file has more contents!
+3Now the file has more contents!
+5Now the file has more contents!
+6Now the file has more contents!
+
